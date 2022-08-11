@@ -46,10 +46,22 @@ More information about the IDE and how to run the code can be found below:
 (https://www.arduino.cc/en/Guide/HomePage).
 
 ## ✨ Documentation
-### 🤖 Installation Steps
-### ✍️ Folder structure
-## 📋 Usage
+The main idea behind taking this project is to make parking more safer and efficient with the use of technology and embedded systems. This will result in great improvement in efficiency, space allocated for parking and more number of vehicles can be parked in the parking area.
 
+### ✍️ Folder structure
+Repository folder structure is mentioned below:
+
+/images - All the project related images are kept in this folder.
+/src - In this folder all the code files are present including .ino files.
+/README.md - Current file which guides you through all the installation process and gives other useful insights about the project.
+
+## 📋 Usage
+1. Code is implemented on the Arduino IDE.
+2. Connect the Arduino UNO kit to the laptop's USB.
+3. Establish the wire connections on the Arduino kit and connect the ultra sonic sensors.
+4. Place the LEDs on the Arduino kit. 🤖
+5. Place the resistors.
+6. Bring a car and perform the test after executing the code.
 
 
 ## ✍️ Contributors
@@ -58,3 +70,5 @@ More information about the IDE and how to run the code can be found below:
 
 ## 🙏🏻Credits
 ### Dr. Trevor Tomesh
+Thanks for motivating us and giving us all the valuable information during the lecture sessions to build the project.
+
